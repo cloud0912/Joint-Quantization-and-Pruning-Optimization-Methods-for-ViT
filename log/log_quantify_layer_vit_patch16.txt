@@ -1,0 +1,16 @@
+Tue May 14 16:53:09 2024 Epoch 0, lr: 0.0001000, val loss: 51.28840, acc: 93.51567
+Tue May 14 16:58:46 2024 Epoch 1, lr: 0.0001000, val loss: 58.55120, acc: 92.89999
+Tue May 14 17:04:24 2024 Epoch 2, lr: 0.0001000, val loss: 51.47173, acc: 94.24185
+Tue May 14 17:10:01 2024 Epoch 3, lr: 0.0001000, val loss: 59.09137, acc: 92.82895
+Tue May 14 17:15:39 2024 Epoch 4, lr: 0.0000100, val loss: 52.90350, acc: 93.68537
+Tue May 14 17:21:17 2024 Epoch 5, lr: 0.0000100, val loss: 10.42268, acc: 98.83574
+Tue May 14 17:26:55 2024 Epoch 6, lr: 0.0000100, val loss: 8.95469, acc: 99.02518
+Tue May 14 17:32:33 2024 Epoch 7, lr: 0.0000100, val loss: 8.14951, acc: 99.17121
+Tue May 14 17:38:10 2024 Epoch 8, lr: 0.0000100, val loss: 7.76049, acc: 99.18699
+Tue May 14 17:43:48 2024 Epoch 9, lr: 0.0000100, val loss: 6.72177, acc: 99.30144
+Tue May 14 17:49:25 2024 Epoch 10, lr: 0.0000100, val loss: 6.63024, acc: 99.29355
+Tue May 14 17:55:03 2024 Epoch 11, lr: 0.0000100, val loss: 6.07232, acc: 99.41590
+Tue May 14 18:00:40 2024 Epoch 12, lr: 0.0000100, val loss: 6.13630, acc: 99.34091
+Tue May 14 18:06:17 2024 Epoch 13, lr: 0.0000100, val loss: 6.26376, acc: 99.35275
+Tue May 14 18:11:54 2024 Epoch 14, lr: 0.0000100, val loss: 5.73380, acc: 99.38432
+Tue May 14 18:17:32 2024 Epoch 15, lr: 0.0000100, val loss: 6.00330, acc: 99.33302
